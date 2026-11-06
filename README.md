@@ -2,7 +2,8 @@
 
 **Agentic AI Engineer.** I design, build and lead production AI systems: multi-agent workflows, voice agents and RAG, plus the evals, observability and cloud infrastructure that keep them working once real users show up.
 
-Currently **AI Solutions Engineer @ Agency VA**: architect, developer and technical lead for enterprise AI projects. 🏆 **1st place, Vyrothon 2026** (560+ applicants).
+Currently **AI Solutions Engineer @ Agency VA**: architect, developer and technical lead for enterprise AI projects. 
+🏆 **1st place, Vyrothon 2026** (560+ applicants).
 
 🌐 **Portfolio:** [tayyab-ahmad.vercel.app](https://tayyab-ahmad.vercel.app)
 
@@ -48,4 +49,4 @@ Production work for clients (AI visibility platform, healthcare voice AI, multi-
 
 ### 📫 Reach me
 
-[Portfolio](https://tayyab-ahmad.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tayyab-ahmad-79a975268/) · tayyabahmad.ai@gmail.com · Open to remote roles and AI projects (Gulf, US, Pakistan)
+[Portfolio](https://tayyab-ahmad.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tayyab-ahmad-79a975268/) · tayyabahmad.ai@gmail.com · Open to roles and AI projects (Gulf, US, Pakistan)
